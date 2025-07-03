@@ -2,6 +2,10 @@
 
 A powerful, multi-window markdown editor for macOS and iPadOS with voice transcription and comprehensive formatting tools.
 
+## 📥 Download
+
+**[Download for macOS (ARM64)](build/MarkdownEditor.zip)** - Ready-to-use app bundle
+
 ![Split View Mode](screens/screen_split.png)
 
 ## ✨ Features
